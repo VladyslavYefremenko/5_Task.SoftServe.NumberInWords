@@ -1,0 +1,6 @@
+C:\Users\NoApple\Desktop\GitHub\5_Task.SoftServe.NumberInWords\SoftServe.NumberInWords\bin\Debug\SoftServe.NumberInWords.exe
+C:\Users\NoApple\Desktop\GitHub\5_Task.SoftServe.NumberInWords\SoftServe.NumberInWords\bin\Debug\SoftServe.NumberInWords.pdb
+C:\Users\NoApple\Desktop\GitHub\5_Task.SoftServe.NumberInWords\SoftServe.NumberInWords\obj\Debug\SoftServe.NumberInWords.csprojAssemblyReference.cache
+C:\Users\NoApple\Desktop\GitHub\5_Task.SoftServe.NumberInWords\SoftServe.NumberInWords\obj\Debug\SoftServe.NumberInWords.csproj.CoreCompileInputs.cache
+C:\Users\NoApple\Desktop\GitHub\5_Task.SoftServe.NumberInWords\SoftServe.NumberInWords\obj\Debug\SoftServe.NumberInWords.exe
+C:\Users\NoApple\Desktop\GitHub\5_Task.SoftServe.NumberInWords\SoftServe.NumberInWords\obj\Debug\SoftServe.NumberInWords.pdb
